@@ -30,7 +30,7 @@ public class FlamingNinjaStar {
 		for (int i = 0; i < 25; i++) {
 
 			// 2. Turn the robot 1/8 of a circle
-			robot.setSpeed(100);
+			robot.setSpeed(200);
 			robot.turn(45);
 			// 3. Move the robot 64 pixels
 			robot.move(64);
